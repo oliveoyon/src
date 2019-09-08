@@ -1,0 +1,2 @@
+https://medium.com/@bengarvey/use-an-updated-at-column-in-your-mysql-table-and-make-it-update-automatically-6bf010873e6a   for createdat updated at
+
